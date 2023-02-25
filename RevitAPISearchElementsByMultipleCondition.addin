@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISearchElementsByMultipleCondition.dll"</Assembly>
+		<AddInId>D651ED52-F24C-42CF-AAF2-88940EF381AA</AddInId>
+		<FullClassName>RevitAPISearchElementsByMultipleCondition.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Поиск элементов по нескольким условиям для Revit</Text>
+	</AddIn>
+</RevitAddIns>
